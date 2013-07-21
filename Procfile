@@ -1,1 +1,1 @@
-web: MUnusTwitterPuzz
+web: twitterPuzzle
